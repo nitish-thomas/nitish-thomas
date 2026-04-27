@@ -17,7 +17,7 @@ I'm actively learning data science and machine learning through Codecademy, with
 
 ## 🚀 Projects
 
-### [Aurora Form Workflow](https://github.com/nitish-thomas/aurora-form-workflow)
+### [Aurora Form Workflow](https://github.com/nitish-thomas/form-workflow)
 A full-stack approval workflow system built from scratch for Aurora Early Education — replacing a manual email process with a structured, audit-ready system. Built with PHP, PostgreSQL (Supabase), Google OAuth, and Google Apps Script.
 
 → Multi-stage approvals, token-based email actions, escalation engine, digital signatures, CSV export, admin dashboard with live KPIs

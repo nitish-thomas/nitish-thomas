@@ -1,22 +1,54 @@
-## Hi there, I'm Nitish 👋
+# Hi, I'm Nitish 👋
 
-<!--
-**nitish-thomas/nitish-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems and data professional based in Melbourne, Australia — currently working as a **Systems Co-ordinator at Aurora Early Education**, where I build workflow automation, manage data systems, and implement tools that make operations run better.
 
-Here are some ideas to get you started:
+I'm actively learning data science and machine learning through Codecademy, with a strong interest in using data to drive decisions in the social impact sector.
 
--## 🔭 About Me
-- 🎓 Learning Python and exploring audio signal processing
-- 🏥 Interested in healthcare technology and data analysis
-- 🔊 Currently working on audio processing projects
-- 📊 Passionate about turning data into insights
+---
 
-🔭 I’m currently working on ...
-- **Cough Tracker**: Python-based health monitoring system using real-time audio processing
-- Learning: Audio signal processing, NumPy, data visualisation
+## 🛠️ What I work with
 
-## 🎯 2025 Goals
-- [ ] Master Python audio processing
-- [ ] Build 5 data science projects
-- [ ] Contribute to open-source projects
-- [ ] Learn machine learning fundamentals
+**Languages & scripting:** Python · PHP · SQL · Google Apps Script
+**Data & BI:** Power BI · PostgreSQL (Supabase) · Jupyter Notebook
+**Systems & tools:** Google Workspace · Zoho One · Lineleader CRM · GitHub
+**Web:** HTML/CSS · Tailwind CSS
+
+---
+
+## 🚀 Projects
+
+### [Aurora Form Workflow](https://github.com/nitish-thomas/aurora-form-workflow)
+A full-stack approval workflow system built from scratch for Aurora Early Education — replacing a manual email process with a structured, audit-ready system. Built with PHP, PostgreSQL (Supabase), Google OAuth, and Google Apps Script.
+
+→ Multi-stage approvals, token-based email actions, escalation engine, digital signatures, CSV export, admin dashboard with live KPIs
+
+### [World in Maps](https://github.com/nitish-thomas/world-in-maps)
+An interactive world map that resizes countries proportionally based on real-world datasets — population, GDP, energy, agriculture, and more. Built with Python and Jupyter Notebook.
+
+### [Cough Tracker](https://github.com/nitish-thomas/cough-tracker)
+A Python-based cough detection and tracking system using real-time audio processing.
+
+---
+
+## 📜 Certifications
+
+- **BI Dashboards with Power BI** — Codecademy (Jan 2026)
+  Loading & working with data, visualisations, dashboarding and storytelling
+- **Python Development** — Mimo (May 2025)
+  Core Python, OOP, APIs, AI development with LLMs
+
+---
+
+## 📚 Currently learning
+
+**Data Science & Machine Learning** — Codecademy (June 2025 – present)
+
+---
+
+## 🤝 Volunteering
+
+**Save The Children Australia** (July 2025 – present) · *Reliability Rockstar Award, Dec 2025*
+
+---
+
+📫 **nitishthomasauz@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nitish-thomas)

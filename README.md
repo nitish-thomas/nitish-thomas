@@ -8,10 +8,10 @@ I'm actively learning data science and machine learning through Codecademy, with
 
 ## 🛠️ What I work with
 
-**Languages & scripting:** Python · PHP · SQL · Google Apps Script
-**Data & BI:** Power BI · PostgreSQL (Supabase) · Jupyter Notebook
-**Systems & tools:** Google Workspace · Zoho One · Lineleader CRM · GitHub
-**Web:** HTML/CSS · Tailwind CSS
+**Languages & scripting:** Python · PHP · SQL · Google Apps Script  
+**Data & BI:** Power BI · PostgreSQL (Supabase) · Jupyter Notebook  
+**Systems & tools:** Google Workspace · Zoho One · Lineleader CRM · GitHub  
+**Web:** HTML/CSS · Tailwind CSS  
 
 ---
 
@@ -25,16 +25,16 @@ A full-stack approval workflow system built from scratch for Aurora Early Educat
 ### [World in Maps](https://github.com/nitish-thomas/world-in-maps)
 An interactive world map that resizes countries proportionally based on real-world datasets — population, GDP, energy, agriculture, and more. Built with Python and Jupyter Notebook.
 
-### [Cough Tracker](https://github.com/nitish-thomas/cough-tracker)
-A Python-based cough detection and tracking system using real-time audio processing.
+### [Melbourne CBD Foot Traffic Dashboard](https://github.com/nitish-thomas/melb-foot-traffic)
+An interactive dashboard analysing pedestrian flow across Melbourne's CBD using 80+ City of Melbourne sensors. Python + pandas pipeline processes ~1.5M rows of open data into pre-aggregated JSON; visualised with Leaflet.js (bubble map) and Chart.js (heatmap, trends, top-10 chart). Designed to help retail businesses optimise promotion timing and site selection.
 
 ---
 
 ## 📜 Certifications
 
-- **BI Dashboards with Power BI** — Codecademy (Jan 2026)
+- **BI Dashboards with Power BI** — Codecademy (Jan 2026)  
   Loading & working with data, visualisations, dashboarding and storytelling
-- **Python Development** — Mimo (May 2025)
+- **Python Development** — Mimo (May 2025)  
   Core Python, OOP, APIs, AI development with LLMs
 
 ---
